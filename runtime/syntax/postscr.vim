@@ -503,7 +503,7 @@ if postscr_level == 2 || postscr_level == 3
 " Page duplexing operators
   syn keyword postscrL2Operator   duplexmode firstside newsheet setduplexmode settumble tumble
 
-" Device compatability operators
+" Device compatibility operators
   syn keyword postscrL2Operator   devdismount devformat devmount devstatus
   syn keyword postscrL2Repeat     devforall
 
